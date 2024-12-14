@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextBaseGame", "TextBaseGame.vcxproj", "{6FA7EFBC-C62D-49A5-B677-31569E6BEF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7EFBC-C62D-49A5-B677-31569E6BEF60}.Debug|x64.ActiveCfg = Debug|x64
+		{6FA7EFBC-C62D-49A5-B677-31569E6BEF60}.Debug|x64.Build.0 = Debug|x64
+		{6FA7EFBC-C62D-49A5-B677-31569E6BEF60}.Release|x64.ActiveCfg = Release|x64
+		{6FA7EFBC-C62D-49A5-B677-31569E6BEF60}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE6F419-2415-4421-8CB0-A2FF03D48797}
+	EndGlobalSection
+EndGlobal
